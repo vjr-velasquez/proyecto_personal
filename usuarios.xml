@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usuarios>
+    <usuario>
+        <id>1</id>
+        <nombre>Juan Perez</nombre>
+        <correo>juan.perez@example.com</correo>
+        <telefono>1234567890</telefono>
+    </usuario>
+    <usuario>
+        <id>2</id>
+        <nombre>Maria Lopez</nombre>
+        <correo>maria.lopez@example.com</correo>
+        <telefono>0987654321</telefono>
+    </usuario>
+    <usuario>
+        <id>3</id>
+        <nombre>Carlos Sanchez</nombre>
+        <correo>carlos.sanchez@example.com</correo>
+        <telefono>1122334455</telefono>
+    </usuario>
+    <usuario>
+        <id>4</id>
+        <nombre>Luisa Gomez</nombre>
+        <correo>luisa.gomez@example.com</correo>
+        <telefono>2233445566</telefono>
+    </usuario>
+    <usuario>
+        <id>5</id>
+        <nombre>Pedro Martinez</nombre>
+        <correo>pedro.martinez@example.com</correo>
+        <telefono>3344556677</telefono>
+    </usuario>
+    <usuario>
+        <id>6</id>
+        <nombre>Ana Torres</nombre>
+        <correo>ana.torres@example.com</correo>
+        <telefono>4455667788</telefono>
+    </usuario>
+    <usuario>
+        <id>7</id>
+        <nombre>Jorge Ramirez</nombre>
+        <correo>jorge.ramirez@example.com</correo>
+        <telefono>5566778899</telefono>
+    </usuario>
+    <usuario>
+        <id>8</id>
+        <nombre>Laura Diaz</nombre>
+        <correo>laura.diaz@example.com</correo>
+        <telefono>6677889900</telefono>
+    </usuario>
+    <usuario>
+        <id>9</id>
+        <nombre>Ricardo Fernandez</nombre>
+        <correo>ricardo.fernandez@example.com</correo>
+        <telefono>7788990011</telefono>
+    </usuario>
+    <usuario>
+        <id>10</id>
+        <nombre>Elena Ruiz</nombre>
+        <correo>elena.ruiz@example.com</correo>
+        <telefono>8899001122</telefono>
+    </usuario>
+    <usuario>
+        <id>11</id>
+        <nombre>Fernando Morales</nombre>
+        <correo>fernando.morales@example.com</correo>
+        <telefono>9900112233</telefono>
+    </usuario>
+    <usuario>
+        <id>12</id>
+        <nombre>Patricia Vega</nombre>
+        <correo>patricia.vega@example.com</correo>
+        <telefono>0011223344</telefono>
+    </usuario>
+    <usuario>
+        <id>13</id>
+        <nombre>Andres Castro</nombre>
+        <correo>andres.castro@example.com</correo>
+        <telefono>1122334455</telefono>
+    </usuario>
+    <usuario>
+        <id>14</id>
+        <nombre>Monica Herrera</nombre>
+        <correo>monica.herrera@example.com</correo>
+        <telefono>2233445566</telefono>
+    </usuario>
+    <usuario>
+        <id>15</id>
+        <nombre>Diego Rojas</nombre>
+        <correo>diego.rojas@example.com</correo>
+        <telefono>3344556677</telefono>
+    </usuario>
+    <usuario>
+        <id>16</id>
+        <nombre>Gabriela Mendoza</nombre>
+        <correo>gabriela.mendoza@example.com</correo>
+        <telefono>4455667788</telefono>
+    </usuario>
+    <usuario>
+        <id>17</id>
+        <nombre>Oscar Ortiz</nombre>
+        <correo>oscar.ortiz@example.com</correo>
+        <telefono>5566778899</telefono>
+    </usuario>
+    <usuario>
+        <id>18</id>
+        <nombre>Daniela Chavez</nombre>
+        <correo>daniela.chavez@example.com</correo>
+        <telefono>6677889900</telefono>
+    </usuario>
+    <usuario>
+        <id>19</id>
+        <nombre>Hector Vargas</nombre>
+        <correo>hector.vargas@example.com</correo>
+        <telefono>7788990011</telefono>
+    </usuario>
+    <usuario>
+        <id>20</id>
+        <nombre>Isabel Flores</nombre>
+        <correo>isabel.flores@example.com</correo>
+        <telefono>8899001122</telefono>
+    </usuario>
+</usuarios>
